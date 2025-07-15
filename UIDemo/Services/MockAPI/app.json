@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "name": "极简天气",
+  "version": "1.0.0",
+  "description": "一款极简风格的天气应用，提供准确的天气预报和实时天气信息。界面简洁美观，功能实用，支持多城市天气查询，实时更新天气数据。",
+  "iconURL": "https://via.placeholder.com/290x290/007AFF/FFFFFF?text=Weather",
+  "screens": [
+    "https://via.placeholder.com/290x290/FF9500/FFFFFF?text=Screen1",
+    "https://via.placeholder.com/290x290/FF2D92/FFFFFF?text=Screen2",
+    "https://via.placeholder.com/290x290/5856D6/FFFFFF?text=Screen3"
+  ],
+  "website": "https://example.com",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author": "用户1",
+      "rating": 5,
+      "comment": "非常好用的天气应用，界面简洁美观",
+      "date": "2024-01-01"
+    },
+    {
+      "author": "用户2",
+      "rating": 4,
+      "comment": "界面简洁，功能齐全，推荐使用",
+      "date": "2024-01-02"
+    },
+    {
+      "author": "用户3",
+      "rating": 5,
+      "comment": "天气预报很准确，界面设计很棒",
+      "date": "2024-01-03"
+    }
+  ]
+} 
