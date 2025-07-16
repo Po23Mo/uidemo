@@ -2,7 +2,7 @@ import UIKit
 
 class FavoriteDetailViewController: UIViewController {
     
-    private let scrollView = UIScrollView()
+    private let scrollView = UIScrollView()
     private let contentView = UIView()
     private let appImageView = UIImageView()
     private let nameLabel = UILabel()
